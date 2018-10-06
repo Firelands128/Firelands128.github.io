@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Install Vue.js Using CLI  
 ### February 17, 2018
 command line：
