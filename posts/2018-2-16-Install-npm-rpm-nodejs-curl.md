@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Install npm rpm nodejs
 ### February 17, 2018
 > sudo apt install npm  
