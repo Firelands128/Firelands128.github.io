@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Install tensorflow with anaconda
 ### February 18, 2018
 1. Go to https://www.anaconda.com/download to download anaconda  
