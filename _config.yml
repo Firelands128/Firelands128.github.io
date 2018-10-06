@@ -1,5 +1,6 @@
 title:               GitHub Blog
 description:         --Wenqi Li
+show_github:         true
 show_downloads:      false
 google_analytics:
 theme:               jekyll-theme-cayman
