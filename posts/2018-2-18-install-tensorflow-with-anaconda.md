@@ -1,4 +1,5 @@
-# install tensorflow with anaconda
+# Install tensorflow with anaconda
+### February 18, 2018
 1. Go to https://www.anaconda.com/download to download anaconda  
 2. open terminal and change directoray to where anaconda.sh is, then bash it.  
 > bash Anaconda3-5.1.0-Linux-x86_64.sh
