@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Enable clipboard share and folder share on virualbox
 ### February 18, 2018
 0. Add virualbox USB extension pack  
