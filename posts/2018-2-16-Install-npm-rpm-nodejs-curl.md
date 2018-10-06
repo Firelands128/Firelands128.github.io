@@ -1,4 +1,4 @@
-# install npm rpm nodejs
+# Install npm rpm nodejs
 ### February 17, 2018
 > sudo apt install npm  
 > sudo apt install rpm  
