@@ -5,13 +5,13 @@ google_analytics:
 theme:               jekyll-theme-cayman
 
 # Setup
-baseurl:             https://firelands128.github.io
+# baseurl:             https://firelands128.github.io
 
 # About/contact
-author:
-  name:              Wenqi Li
-  url:               https://firelands128.github.io
-  email:             firelands128@gmail.com
+# author:
+  # name:              Wenqi Li
+  # url:               https://firelands128.github.io
+  # email:             firelands128@gmail.com
 
 # Custom vars
-version:             1.0.0
+# version:             1.0.0
