@@ -4,6 +4,6 @@ show_github:         true
 show_downloads:      false
 google_analytics:
 theme:               jekyll-theme-cayman
-baseurl:             'https://firelands128.github.io/'
+# baseurl:             'https://firelands128.github.io/'
 # Custom vars
 version:             1.0.0
