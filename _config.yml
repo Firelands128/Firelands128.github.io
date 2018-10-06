@@ -1,8 +1,8 @@
-title: GitHub Blog
-description: --Wenqi Li
-show_downloads: false
+title:               GitHub Blog
+description:         --Wenqi Li
+show_downloads:      false
 google_analytics:
-theme: jekyll-theme-cayman
+theme:               jekyll-theme-cayman
 
 # Setup
 baseurl:             https://firelands128.github.io
