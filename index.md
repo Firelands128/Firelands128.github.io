@@ -7,9 +7,9 @@ Full Stack Software Engineer. ML/DL & Big Data related implementations.
 Graducated from UC Santa Cruz with graduate certificates.
 
 # Projects
-Feb, 2019 : [Restful User Management Web Service with MySQL database and Spring Security](https://github.com/Firelands128/user-management)
-Jan, 2019 : [Restful Order Management Web Service with MongoDB](https://github.com/Firelands128/order-management-mongo)
-Jan, 2019 : [Restful Order Management Web Service with MySQL database](https://github.com/Firelands128/order-management-mysql)
+Feb, 2019 : [Restful User Management Web Service with MySQL database and Spring Security](https://github.com/Firelands128/user-management)  
+Jan, 2019 : [Restful Order Management Web Service with MongoDB](https://github.com/Firelands128/order-management-mongo)  
+Jan, 2019 : [Restful Order Management Web Service with MySQL database](https://github.com/Firelands128/order-management-mysql)  
 Sep, 2018 : [Robust Assignment of Airport Gates with Graph Theory and Evolution Computation](https://github.com/Firelands128/Robust-Assignment-of-Airport-Gates-with-Graph-Theory-and-Evolution-Computation)  
 Aug, 2018 : [Image Style Transfer with TensorFlow and VGG-19](https://github.com/Firelands128/Image-Style-Transfer-with-TensorFlow-and-VGG-19)  
 Apr, 2018 : [Handwritten Arithmetic Recognition with TensorFlow](https://github.com/Firelands128/Handwritten-Arithmetic-Recognition-with-TensorFlow)  
